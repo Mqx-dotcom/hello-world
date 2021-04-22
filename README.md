@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Mqx-dotcom/hello-world">
-    <img src="images/max.png" alt="Logo" width="200" height="200">
+    <img src="images/max.png" alt="max" width="200" height="200">
   </a>
 
   <h3 align="center">| | Mqx-dotcom | |</h3>
@@ -15,7 +15,10 @@
     <br />
   </p>
 </p>
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[![GMail][GMail-shield]][GMail-url] <br />
+[![LinkedIn][linkedin-shield]][linkedin-url] <br />
+
 
 
 
@@ -83,15 +86,7 @@ https://github.com/khrome/ascii-art
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/maxime-siemons-153b5b20b/
+[GMail-shield]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555
+[GMail-url]: maxime-siemons@becode.xyz
