@@ -2,13 +2,12 @@
 <br />
 <p align="center">
   <a href="https://github.com/Mqx-dotcom/hello-world">
-    <img src="images/max.png" alt="max" width="200" height="200">
+    <img width="500" alt="max" src="https://user-images.githubusercontent.com/66429445/115710349-894c2480-a372-11eb-8ff0-41bc7bcea895.png">
+
+
   </a>
-
-  <h3 align="center">| | Mqx-dotcom | |</h3>
-
-  <h4 align="center">
-   On my way to stop leeching & share my own conten 
+  <h4 align="center">  On my way to stop leeching <br />& share my own content.</h4><br /><br />
+  <h4 align="center">  ( ͡° ͜ʖ ͡°) 
     <br />
     <a href="https://github.com/Mqx-dotcom"><strong>Explore my repos »</strong></a></h4>
     <br />
@@ -16,39 +15,66 @@
   </p>
 </p>
 
-[![GMail][GMail-shield]][GMail-url] <br />
-[![LinkedIn][linkedin-shield]][linkedin-url] <br />
+[![GMail][GMail-logo]][GMail-url] <br />
+[![LinkedIn][linkedin-logo]][linkedin-url] <br />
 
 
+```
+//life motto
+while(noSucess)
+{
+    TryAgain();
+    
+    if (Dead)
+            break;
+}
+```
+<br />
+<!-- TABLE DES MATIEEEEERES b:c why not x) -->
 
-
-
-##### On my way to stop leeching & share my own content
-
+<details open="open">
+  <summary><h3 style="display: inline-block">Table of Contents</h3></summary>
+  <ol>    <li>
+      <a href="#about-me">About me</a>
+      <ul>
+        <li><a href="#quote">Quote</a></li>
+      </ul>
+    </li>
+    <li><a href="#famous-skills">Famous skills</a></li>
+    <li><a href="#world-is-love">World is love</a></li>
+    <li><a href="#objectives">Objectives</a></li>
+    <li><a href="#fear">Fear</a></li>
+    <li><a href="#aspire-to">Aspire to</a></li>
+    <li><a href="#teamwork">Teamwork</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#sources">Sources</a></li>
+    <li><a href="#project-link">Project link</a></li>
+  </ol>
+</details>
 
 ## About me
 
-Maxime S.
-Currently diving in the BeCode (Brussels) Pool.
-Just casually writing stuff to learn.
+<strong>Maxime S. </strong> <br />
+Currently diving in the <strong>BeCode</strong> (Brussels) Pool. <br />
+Just casually writing stuff to learn. <br />
+##### Quote
+> "Being stuck is part of learning."
 
-> Being stuck is part of learning
+## Famous skills
 
-## Famous skill:
-
-- Coffee don't have any effect on me
+- <strong>Coffee</strong> don't have any effect on me
 - Can fail "microwave cooking" 
 - Can make a lot of Mojito's/minute
 - Love to learn & succeed by myself
 
-## World is love :
+## World is love
 
 - Family
 - Eat
 - Boardsports
 
 
-## Objectives :
+## Objectives
 
 - Being able to work in the (Web) Dev sector;
 - Produce & maintain a website alone;
@@ -56,15 +82,16 @@ Just casually writing stuff to learn.
 - Share my source code / idea;
 - Work on project with friends who's already in the sector
 
-## Fear :
-/
-getting stuck is not an option
+## Fear
 
-## Aspire to :
+//error 404//
 
-- learn !
 
-## Teamwork :
+## Aspire to
+
+- Learn !
+
+## Teamwork
 
 - Share
 - Respect
@@ -74,19 +101,22 @@ getting stuck is not an option
 
 ## Contact
 
-Mqx-dotcom - [@twitter_handle](https://twitter.com/Mqx-dotcom) - maxime-siemons@becode.xyz
+Mqx-dotcom - [@Mqx-dotcom](https://twitter.com/Mqx-dotcom) - maxime-siemons@becode.xyz
 
-## Source :
+## Sources
 
 https://github.com/khrome/ascii-art
 
-## Project Link: 
+## Project Link
 [https://github.com/Mqx-dotcom/hello-world]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[linkedin-logo]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/maxime-siemons-153b5b20b/
-[GMail-shield]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555
-[GMail-url]: maxime-siemons@becode.xyz
+[GMail-logo]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555
+[GMail-url]: (mailto:maxime-siemons@becode.xyz?subject=[GitHub]%20Source%20Han%20Sans)
+(mailto:maxime-siemons@becode.xyz?subject=[GitHub]%20Source%20Han%20Sans)
+
+<h1 align="center">| | Mqx-dotcom | |</h3>
