@@ -116,7 +116,7 @@ https://github.com/khrome/ascii-art
 [linkedin-logo]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/maxime-siemons-153b5b20b/
 [GMail-logo]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555
-[GMail-url]: (mailto:maxime-siemons@becode.xyz?subject=[GitHub]%20Source%20Han%20Sans)
-(mailto:maxime-siemons@becode.xyz?subject=[GitHub]%20Source%20Han%20Sans)
+[GMail-url]: mailto:maxime-siemons@becode.xyz?subject=[GitHub-Mqx-dotcom]
+
 
 <h1 align="center">| | Mqx-dotcom | |</h3>
