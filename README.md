@@ -1,12 +1,11 @@
+<br />
 <p align="center">
   <a href="https://github.com/Mqx-dotcom/hello-world">
     <img width="500" alt="max" src="https://user-images.githubusercontent.com/66429445/115710349-894c2480-a372-11eb-8ff0-41bc7bcea895.png">
   </a>
-  <br />
-  <br />
-  <h4 align="center">  On my way to stop leeching <br />& sharing my own content.</h4><br /><br />
+  <h5 align="center">  On my way to stop leeching <br />& sharing my own content.</h5>
   <h4 align="center">  ( ͡° ͜ʖ ͡°) <br />
-    <a href="https://github.com/Mqx-dotcom"><strong>Explore my repos »</strong></a></h4>
+    <a href="https://github.com/Mqx-dotcom"><strong>Explore my repos »</strong></a></h4><br />
   </p>
 </p>
 
@@ -53,29 +52,30 @@ while(noSucess)
   </ol>
 </details>
 
-## About me
+### About me
 
 <strong>Maxime S. </strong> <br />
 Currently diving in the <strong>BeCode</strong> (Brussels) Pool. <br />
 Just casually writing stuff to learn. <br />
-##### Quote 
+###### Quote 
 > "Being stuck is part of learning."
 
-## Famous skills
+### Famous skills
 
 - <strong>Coffee</strong> don't have any effect on me;
 - Can fail "microwave cooking";
 - Can make a lot of Mojito's/minute;
 - Love to learn & succeed by myself
 
-## World is love
+
+### World is love
 
 - Family;
 - Eat;
 - Boardsports
 
 
-## Objectives
+### Objectives
 
 - Being able to work in the (Web) Dev sector;
 - Build & maintain a website;
@@ -83,34 +83,34 @@ Just casually writing stuff to learn. <br />
 - Share my source code / idea;
 - Work on project with friends who's already in the sector
 
-## Fear
+### Fear
 
 ⚠️ // Error 404 // ⚠️
 
 
-## Aspire to
+### Aspire to
 
 - Learn !
 
-## Teamwork
+### Teamwork
 
 - Share;
 - Respect;
 - Have a beer !
 
 
-##### Quotes
+###### Quotes
 > Be willing to share your knowledge. The only riches that last are the ones that are given away.
 
-## Contact
+### Contact
 
 Mqx-dotcom - [@Mqx-dotcom](https://twitter.com/Mqx-dotcom) - maxime-siemons@becode.xyz
 
-## Sources
+### Sources
 
 https://github.com/khrome/ascii-art
 
-## Project Link
+### Project Link
 [https://github.com/Mqx-dotcom/hello-world]
 
 
