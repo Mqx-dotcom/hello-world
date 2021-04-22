@@ -3,7 +3,7 @@
   <a href="https://github.com/Mqx-dotcom/hello-world">
     <img width="500" alt="max" src="https://user-images.githubusercontent.com/66429445/115710349-894c2480-a372-11eb-8ff0-41bc7bcea895.png">
   </a>
-  <h5 align="center">  On my way to stop leeching <br />& sharing my own content.</h5>
+  <h6 align="center">  On my way to stop leeching <br />& sharing my own content.</h6>
   <h4 align="center">  ( ͡° ͜ʖ ͡°) <br />
     <a href="https://github.com/Mqx-dotcom"><strong>Explore my repos »</strong></a></h4>
   </p>
@@ -56,8 +56,9 @@ while(noSucess)
 <strong>Maxime S. </strong> <br />
 Currently diving in the <strong>BeCode</strong> (Brussels) Pool. <br />
 Just casually writing stuff to learn. <br />
+
 ###### Quote 
-> "Being stuck is part of learning."
+> "Being **stuck** is part of **learning**."
 
 ### Famous skills
 
@@ -99,7 +100,7 @@ Just casually writing stuff to learn. <br />
 
 
 ###### Quotes
-> Be willing to share your knowledge. The only riches that last are the ones that are given away.
+> Be willing to **share** your knowledge. The only **riches** that last are the ones that are given away.
 
 ### Contact
 
