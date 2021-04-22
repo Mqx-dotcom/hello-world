@@ -100,7 +100,7 @@ Just casually writing stuff to learn. <br />
 
 
 ###### Quotes
-> Be willing to **share** your knowledge. The only **riches** that last are the ones that are given away.
+> Be willing to **share** your knowledge. The only [RICHES](https://user-images.githubusercontent.com/66429445/115743009-87de2480-a391-11eb-96a0-8e3012be36e1.gif) that last are the ones that are given away.
 
 ### Contact
 
@@ -108,14 +108,6 @@ Mqx-dotcom - [@Mqx-dotcom](https://twitter.com/Mqx-dotcom) - maxime-siemons@beco
 
 ### Project Link
 [https://github.com/Mqx-dotcom/hello-world]
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[linkedin-logo]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/maxime-siemons-153b5b20b/
-[GMail-logo]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555
-[GMail-url]: mailto:maxime-siemons@becode.xyz?subject=[GitHub-Mqx-dotcom]
 
 
 <p align="center">| | Mqx-dotcom | |</font>
@@ -127,3 +119,12 @@ Mqx-dotcom - [@Mqx-dotcom](https://twitter.com/Mqx-dotcom) - maxime-siemons@beco
   </p>
 </p>
 
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[linkedin-logo]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/maxime-siemons-153b5b20b/
+[GMail-logo]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555
+[GMail-url]: mailto:maxime-siemons@becode.xyz?subject=[GitHub-Mqx-dotcom]
+
+<!-- MARKDOWN LINKS & IMAGES -->
