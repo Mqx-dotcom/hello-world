@@ -5,7 +5,7 @@
   </a>
   <h5 align="center">  On my way to stop leeching <br />& sharing my own content.</h5>
   <h4 align="center">  ( ͡° ͜ʖ ͡°) <br />
-    <a href="https://github.com/Mqx-dotcom"><strong>Explore my repos »</strong></a></h4><br />
+    <a href="https://github.com/Mqx-dotcom"><strong>Explore my repos »</strong></a></h4>
   </p>
 </p>
 
@@ -47,7 +47,6 @@ while(noSucess)
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#sources">Sources</a></li>
     <li><a href="#project-link">Project link</a></li>
   </ol>
 </details>
@@ -106,10 +105,6 @@ Just casually writing stuff to learn. <br />
 
 Mqx-dotcom - [@Mqx-dotcom](https://twitter.com/Mqx-dotcom) - maxime-siemons@becode.xyz
 
-### Sources
-
-https://github.com/khrome/ascii-art
-
 ### Project Link
 [https://github.com/Mqx-dotcom/hello-world]
 
@@ -123,3 +118,11 @@ https://github.com/khrome/ascii-art
 
 
 <p align="center">| | Mqx-dotcom | |</font>
+
+<p align="center">
+  <a href="https://github.com/Mqx-dotcom/hello-world">
+    <img width="500" alt="max" src="https://user-images.githubusercontent.com/66429445/115719430-5dce3780-a37c-11eb-83e4-3ee74c539898.gif">
+  </a>
+  </p>
+</p>
+
