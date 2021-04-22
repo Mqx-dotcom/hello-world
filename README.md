@@ -11,6 +11,7 @@
 
 [![GMail][GMail-logo]][GMail-url] <br />
 [![LinkedIn][linkedin-logo]][linkedin-url] <br />
+[![Steam][Steam-logo]][Steam-url] <br />
 
 
 ```
@@ -126,5 +127,6 @@ Mqx-dotcom - [@Mqx-dotcom](https://twitter.com/Mqx-dotcom) - maxime-siemons@beco
 [linkedin-url]: https://www.linkedin.com/in/maxime-siemons-153b5b20b/
 [GMail-logo]: https://img.shields.io/badge/-gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555
 [GMail-url]: mailto:maxime-siemons@becode.xyz?subject=[GitHub-Mqx-dotcom]
-
+[Steam-logo]: https://img.shields.io/badge/-steam-black.svg?style=for-the-badge&logo=steam&colorB=555
+[Steam-url]: https://steamcommunity.com/id/mAd2k3/
 <!-- MARKDOWN LINKS & IMAGES -->
