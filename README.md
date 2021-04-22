@@ -15,7 +15,7 @@
 
 ```
 //life motto
-while(noSucess)
+while(noSuccess)
 {
     TryAgain();
     
